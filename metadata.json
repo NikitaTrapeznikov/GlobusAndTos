@@ -1,0 +1,6 @@
+{
+  "name": "BASTION Z — Top-Down Zombie Base Defense",
+  "description": "2D top-down zombie survival and tactical base-building game with day/night cycles, automated resource generators, upgradable turrets, and character skill progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
